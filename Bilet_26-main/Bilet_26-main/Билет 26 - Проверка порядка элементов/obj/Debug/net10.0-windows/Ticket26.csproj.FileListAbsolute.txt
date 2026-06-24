@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\bin\Debug\net10.0-windows\Ticket26.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\bin\Debug\net10.0-windows\Ticket26.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\bin\Debug\net10.0-windows\Ticket26.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\bin\Debug\net10.0-windows\Ticket26.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\bin\Debug\net10.0-windows\Ticket26.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\refint\Ticket26.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\Ticket26.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 26 - Проверка порядка элементов\obj\Debug\net10.0-windows\ref\Ticket26.dll
