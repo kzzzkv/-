@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\bin\Debug\net6.0-windows\Ticket19.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\bin\Debug\net6.0-windows\Ticket19.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\bin\Debug\net6.0-windows\Ticket19.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\bin\Debug\net6.0-windows\Ticket19.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\bin\Debug\net6.0-windows\Ticket19.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\refint\Ticket19.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\Ticket19.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 19 - Содержание подстроки\obj\Debug\net6.0-windows\ref\Ticket19.dll
