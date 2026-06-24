@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\bin\Debug\net6.0-windows\Ticket24.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\bin\Debug\net6.0-windows\Ticket24.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\bin\Debug\net6.0-windows\Ticket24.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\bin\Debug\net6.0-windows\Ticket24.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\bin\Debug\net6.0-windows\Ticket24.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\refint\Ticket24.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\Ticket24.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 24 - Проверка длины коллекции\obj\Debug\net6.0-windows\ref\Ticket24.dll
