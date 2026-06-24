@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\bin\Debug\net6.0-windows\Ticket21.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\bin\Debug\net6.0-windows\Ticket21.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\bin\Debug\net6.0-windows\Ticket21.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\bin\Debug\net6.0-windows\Ticket21.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\bin\Debug\net6.0-windows\Ticket21.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\refint\Ticket21.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\Ticket21.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 21 - Проверка содержания элемента в списке\obj\Debug\net6.0-windows\ref\Ticket21.dll
