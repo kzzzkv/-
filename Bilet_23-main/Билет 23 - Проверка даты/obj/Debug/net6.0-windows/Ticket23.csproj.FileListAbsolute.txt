@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\bin\Debug\net6.0-windows\Ticket23.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\bin\Debug\net6.0-windows\Ticket23.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\bin\Debug\net6.0-windows\Ticket23.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\bin\Debug\net6.0-windows\Ticket23.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\bin\Debug\net6.0-windows\Ticket23.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\refint\Ticket23.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\Ticket23.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 23 - Проверка даты\obj\Debug\net6.0-windows\ref\Ticket23.dll
