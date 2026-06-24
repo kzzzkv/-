@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\bin\Debug\net6.0-windows\Ticket08.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\bin\Debug\net6.0-windows\Ticket08.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\bin\Debug\net6.0-windows\Ticket08.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\bin\Debug\net6.0-windows\Ticket08.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\bin\Debug\net6.0-windows\Ticket08.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\refint\Ticket08.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\Ticket08.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 08 - Абсолютное значение\obj\Debug\net6.0-windows\ref\Ticket08.dll
