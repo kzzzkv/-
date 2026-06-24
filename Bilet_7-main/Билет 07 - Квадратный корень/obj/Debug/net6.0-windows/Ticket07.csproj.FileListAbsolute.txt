@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\bin\Debug\net6.0-windows\Ticket07.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\bin\Debug\net6.0-windows\Ticket07.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\bin\Debug\net6.0-windows\Ticket07.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\bin\Debug\net6.0-windows\Ticket07.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\bin\Debug\net6.0-windows\Ticket07.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\refint\Ticket07.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\Ticket07.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 07 - Квадратный корень\obj\Debug\net6.0-windows\ref\Ticket07.dll
