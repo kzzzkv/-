@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\bin\Debug\net6.0-windows\Ticket22.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\bin\Debug\net6.0-windows\Ticket22.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\bin\Debug\net6.0-windows\Ticket22.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\bin\Debug\net6.0-windows\Ticket22.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\bin\Debug\net6.0-windows\Ticket22.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\refint\Ticket22.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\Ticket22.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 22 - Проверка отсутствия элемента в списке\obj\Debug\net6.0-windows\ref\Ticket22.dll
