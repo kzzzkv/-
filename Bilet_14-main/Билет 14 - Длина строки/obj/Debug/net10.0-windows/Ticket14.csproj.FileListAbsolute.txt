@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\bin\Debug\net10.0-windows\Ticket14.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\bin\Debug\net10.0-windows\Ticket14.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\bin\Debug\net10.0-windows\Ticket14.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\bin\Debug\net10.0-windows\Ticket14.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\bin\Debug\net10.0-windows\Ticket14.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\refint\Ticket14.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\Ticket14.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 14 - Длина строки\obj\Debug\net10.0-windows\ref\Ticket14.dll
