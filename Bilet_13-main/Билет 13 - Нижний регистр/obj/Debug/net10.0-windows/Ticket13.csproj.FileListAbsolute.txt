@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\bin\Debug\net10.0-windows\Ticket13.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\bin\Debug\net10.0-windows\Ticket13.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\bin\Debug\net10.0-windows\Ticket13.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\bin\Debug\net10.0-windows\Ticket13.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\bin\Debug\net10.0-windows\Ticket13.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\refint\Ticket13.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\Ticket13.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 13 - Нижний регистр\obj\Debug\net10.0-windows\ref\Ticket13.dll
