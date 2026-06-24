@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\bin\Debug\net6.0-windows\Ticket05.exe
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\bin\Debug\net6.0-windows\Ticket05.deps.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\bin\Debug\net6.0-windows\Ticket05.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\bin\Debug\net6.0-windows\Ticket05.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\bin\Debug\net6.0-windows\Ticket05.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\refint\Ticket05.dll
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.pdb
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\Ticket05.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Билеты\Билет 05 - Остаток от деления\obj\Debug\net6.0-windows\ref\Ticket05.dll
